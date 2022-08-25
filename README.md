@@ -20,5 +20,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/strayneko"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="strayneko" /></a></p><br><br>
-<p><script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Trakteer me','#be1e2d','https://trakteer.id/noraneko','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script></p>
+
 
