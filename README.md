@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Noraneko aslo known as Rendi</h1>
+<h1 align="center">Hello👋, I'm Rendi Bayu Setiawan aslo known as Rendi</h1>
 <h3 align="center">Just a random guy who loves cats and programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strayneko&label=Profile%20views&color=0e75b6&style=flat" alt="strayneko" /> </p>
