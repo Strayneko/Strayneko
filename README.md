@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working as Full-Stack Web Developer<br>⚡ Hello 👋, Hello my name is Rendi, nice to meet you
+🔭 I’m currently working as Full-Stack Web Developer<br>⚡ Hello 👋, Hello my name is Strayneko, nice to meet you
 
 ## 🌐 Socials:
 
